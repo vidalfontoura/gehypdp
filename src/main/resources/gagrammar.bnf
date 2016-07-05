@@ -1,0 +1,16 @@
+<GA> ::= <selectionOperator> <matingOperators> <archive>
+
+<selectionOperator> ::= "K Tournament" <tournamentSize> | "Random" | "Roulete Wheel" | "Ranking"
+<tournamentSize> ::= "2" | "4" | "6" | "8" | "10"
+
+<matingOperators> ::= <crossoverOperator> <crossoverProbability> <mutationOperator> <mutationProbability> | <crossoverOperator> <crossoverProbability> | <mutationOperator> <mutationProbability>
+
+<crossoverOperator> ::= "Two Points Crossover" | "Single Point Crossover" | "PMX Crossover" | "Edge Crossover" | "Cycle Crossover"
+<crossoverProbability> ::= "1.0" | "0.95" | "0.9" | "0.8" | "0.5"
+
+<mutationOperator> ::= "Swap Mutation" | "Insert Mutation" | "Scramble Mutation" | "Inversion Mutation"
+<mutationProbability> ::= "0.01" | "0.02" | "0.05" | "0.1" | "0.2" | "0.5" | "0.7" | "0.8" | "0.9" | "1.0"
+
+<archive> ::= <archivingStrategy> <archiveSize>
+<archiveSize> ::= "N" | "N * 1.5" | "N * 2"
+<archivingStrategy> ::= "Dominating Archiver" | "NSGA-II" | "SPEA2" | "Adaptive Grid Archiver" | "Hypervolume Archiver" | "Multi-level Grid Archiving" | "Ideal Archiver"

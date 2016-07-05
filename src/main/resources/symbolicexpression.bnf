@@ -1,0 +1,3 @@
+<expr> ::= <var> | <expr> <op> <expr> | (<expr> <op> <expr>)
+<var> ::= "X" | "Y" | "Z"
+<op> ::= "*" | "/" | "+" | "-"

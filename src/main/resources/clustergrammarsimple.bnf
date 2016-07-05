@@ -1,0 +1,4 @@
+<GP> ::= <inicializacao> <comando>
+<inicializacao> ::= "random" | "uniform"
+<comando> ::= <movimento> | (<movimento> <comando>)
+<movimento> ::= "join" | "split" | "move1" | "move2" 

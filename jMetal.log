@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="windows-1252" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2016-07-05T17:05:11</date>
+  <millis>1467749111807</millis>
+  <sequence>0</sequence>
+  <logger>jMetal</logger>
+  <level>SEVERE</level>
+  <class>org.uma.jmetal.util.JMetalException</class>
+  <method>&lt;init&gt;</method>
+  <thread>1</thread>
+  <message>File is not a file or does not exist.</message>
+  <exception>
+    <message>java.io.FileNotFoundException: symbolicexpression.bnf (The system cannot find the file specified)</message>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>open0</method>
+    </frame>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>open</method>
+      <line>195</line>
+    </frame>
+    <frame>
+      <class>java.io.FileInputStream</class>
+      <method>&lt;init&gt;</method>
+      <line>138</line>
+    </frame>
+    <frame>
+      <class>java.util.Scanner</class>
+      <method>&lt;init&gt;</method>
+      <line>611</line>
+    </frame>
+    <frame>
+      <class>edu.ufpr.grammar.mapper.AbstractGrammarMapper</class>
+      <method>loadGrammar</method>
+      <line>64</line>
+    </frame>
+    <frame>
+      <class>edu.ufpr.grammar.mapper.AbstractGrammarMapper</class>
+      <method>loadGrammar</method>
+      <line>59</line>
+    </frame>
+    <frame>
+      <class>edu.ufpr.grammar.problem.AbstractGrammaticalEvolutionProblem</class>
+      <method>&lt;init&gt;</method>
+      <line>20</line>
+    </frame>
+    <frame>
+      <class>edu.ufpr.grammar.problem.SymbolicExpressionGrammarProblem</class>
+      <method>&lt;init&gt;</method>
+      <line>30</line>
+    </frame>
+    <frame>
+      <class>edu.ufpr.grammar.main.SymbolicExpressionGrammarExperiment</class>
+      <method>main</method>
+      <line>55</line>
+    </frame>
+  </exception>
+</record>
+</log>

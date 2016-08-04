@@ -4,6 +4,7 @@
 package edu.ufpr.grammar.problem;
 
 import com.google.common.collect.Lists;
+import com.google.common.collect.Maps;
 
 import java.util.List;
 import java.util.Map;
@@ -51,6 +52,7 @@ public class HighLevelHeuristicGrammarProblem extends AbstractGrammaticalEvoluti
 
 		setNumberOfObjectives(1);
 
+		instanceBoundaries = Maps.newHashMap();
 		instanceBoundaries.put(1, new InstanceFitnessBoundaries(0, 9));
 		instanceBoundaries.put(2, new InstanceFitnessBoundaries(0, 9));
 		instanceBoundaries.put(3, new InstanceFitnessBoundaries(0, 8));
@@ -92,9 +94,9 @@ public class HighLevelHeuristicGrammarProblem extends AbstractGrammaticalEvoluti
 				System.out.println(
 						"End of execution of EG Instance: " + instance + " Seed: " + i + " Fitness: " + fitness);
 
-				double max = instanceBoundaries.get(instance).getMax();
+				double min = instanceBoundaries.get(instance).getMin();
 
-				double normalized = Math.abs(fitness) / max;
+				double normalized = Math.abs(fitness) / min;
 
 				System.out.println("Normalized fitness: " + normalized);
 

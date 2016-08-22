@@ -87,6 +87,6 @@ public class HighLevelHeuristicsGrammarExperiment {
 		System.out.println("Total time of execution: " + computingTime);
 		System.out.println("Solution: " + solution.getObjective(0));
 		System.out.println("Variables selection: " + mapperSelection.interpret(solution));
-		System.out.println("Variables acceptance: " + mapperSelection.interpret(solution));
+		System.out.println("Variables acceptance: " + mapperAcceptance.interpret(solution));
 	}
 }

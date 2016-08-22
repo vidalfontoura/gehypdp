@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.ufpr</groupId>
     <artifactId>gehypdp</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <packaging>jar</packaging>
 
 	<dependencies>
@@ -123,7 +123,7 @@
                         <goal>install-file</goal>
                     </goals>
                     <configuration>
-                        <file>lib/hypdp.jar</file>
+                        <file>lib/hypdp-0.0.1.jar</file>
                         <groupId>edu.ufpr</groupId>
                         <artifactId>hypdp</artifactId>
                         <version>0.0.1</version>

@@ -80,7 +80,8 @@ public class HighLevelHeuristicGrammarProblem extends AbstractGrammaticalEvoluti
 			int instance = instances[j];
 
 			for (int i = 0; i < numberOfSeeds; i++) {
-				CustomHH customHH = new CustomHH(i, memorySize, selectionFunction, acceptanceFunction, rcWindowSize);
+				CustomHH customHH = new CustomHH(i, memorySize, selectionFunction, acceptanceFunction, rcWindowSize,
+						instance);
 
 				PDP problem = new PDP(i);
 				problem.loadInstance(instance);

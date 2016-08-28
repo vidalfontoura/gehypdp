@@ -1,4 +1,0 @@
-<hh> ::=  <acceptance>
-<acceptance> ::= <acceptance-terminal> | <acceptance> <op> <acceptance> | (<acceptance> <op> <acceptance>)
-<acceptance-terminal> ::= "Delta" | "PF" | "CI" | "TI"
-<op> ::= "*" | "/" | "+" | "-"

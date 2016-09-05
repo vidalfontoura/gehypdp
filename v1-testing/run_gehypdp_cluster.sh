@@ -14,7 +14,7 @@
 ###########################
 # usar colas indicadas
 ###########################
-#$ -q loki.q
+#$ -q loki.q,pegasus.q
 # #$ -q 2014all.q
 ##$ -t 1-30:1
 ##$ -o /dev/null

@@ -1,0 +1,3 @@
+Selection function: ( RC - ( ( ( ( ( ( RC / Caccept + RC ) - RC ) / Caccept ) + Cava ) - Cbest ) * Cava ) / Cbest )
+Acceptance function: ( PF - ( ( ( ( ( ( TI / Delta + PF ) - TI ) / CI ) + PF ) - CI ) * TI ) / Delta )
+Starting HH framework with instance: 2 and seed: 0 and selectioFunction = ( RC - ( ( ( ( ( ( RC / Caccept + RC ) - RC ) / Caccept ) + Cava ) - Cbest ) * Cava ) / Cbest )

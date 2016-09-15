@@ -12413,3 +12413,22 @@ Best: -7.0 	[1,2,2,1,1,2,0,2,2,0,2,2,0,1,1,0,2,2,1,1,2,2]
 End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
 Normalized fitness: 0.7777777777777778
 Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( ( ( ( PF + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI )
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( ( ( ( PF + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI ) + CI )
+Best: -21.0 	[1,1,0,0,1,1,2,0,1,1,1,1,1,0,1,0,0,2,1,2,1,1,1,0,0,1,1,1,2,2,1,1,1,1,0,0,1,2,0,2,2,0,0,2,2,1,2,1,1,0,1,2,0,0,2,1,1,0,0,1,1,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.6256038647342996
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( ( ( ( Delta * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta )
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta )
+Best: -6.0 	[2,0,0,2,0,0,2,0,0,2,1,0,1,1,0,1,1,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta )
+Best: -10.0 	[0,0,2,0,1,0,1,2,1,1,0,1,1,0,0,1,2,2,0,0,2,2,1,2,0,1,1,0,0,1,2,0,1,2,2,0,1,0,0,2,1,1,1,1,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -10.0
+Normalized fitness: 0.43478260869565216
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta ) * Delta * Delta ) * Delta )

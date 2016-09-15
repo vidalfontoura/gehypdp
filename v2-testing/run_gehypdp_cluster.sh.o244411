@@ -13804,3 +13804,22 @@ Overall fitness: 1.427191166321601
 Using fixed Selection function: RC * Ccurrent * Cava - Cr
 Acceptance function: PF / ( ( PF / ( Delta - CI ) / Delta - TI * PF ) - TI ) + Delta + TI
 Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF / ( ( PF / ( Delta - CI ) / Delta - TI * PF ) - TI ) + Delta + TI
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF / ( ( PF / ( Delta - CI ) / Delta - TI * PF ) - TI ) + Delta + TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF / ( ( PF / ( Delta - CI ) / Delta - TI * PF ) - TI ) + Delta + TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( Delta - PF - TI - TI ) + TI - CI ) * TI - Delta - TI ) + TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( Delta - PF - TI - TI ) + TI - CI ) * TI - Delta - TI ) + TI
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( Delta - PF - TI - TI ) + TI - CI ) * TI - Delta - TI ) + TI

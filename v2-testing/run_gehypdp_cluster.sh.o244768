@@ -6462,3 +6462,25 @@ Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0
 End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
 Normalized fitness: 0.34782608695652173
 Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF * PF - ( ( PF / TI ) - TI * ( PF * TI ) ) - PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( PF / Delta ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF / Delta ) / TI
+Best: -7.0 	[1,0,0,2,0,0,2,0,1,1,2,2,0,0,1,1,0,0,2,1,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF / Delta ) / TI
+Best: -16.0 	[1,1,2,2,0,1,0,0,2,1,0,1,1,0,1,1,1,2,2,1,0,0,2,2,0,0,1,1,0,0,2,2,1,0,0,2,2,0,1,1,1,0,0,2,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -16.0
+Normalized fitness: 0.6956521739130435
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF / Delta ) / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.235334713595583
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: PF / Delta / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF / Delta / TI

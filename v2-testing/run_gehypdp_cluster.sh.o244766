@@ -6132,3 +6132,25 @@ Best: -12.0 	[1,1,2,1,0,1,2,2,1,1,1,1,0,1,2,0,2,1,0,1,0,0,2,2,1,2,1,1,1,2,2,0,0,
 End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
 Normalized fitness: 0.5217391304347826
 Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( TI / PF / PF ) / PF / PF ) / PF / PF ) / PF / PF ) / PF
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.9185645272601795
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( ( ( ( Delta * CI * PF ) + CI ) * CI ) + PF / TI ) + PF ) + CI ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * CI * PF ) + CI ) * CI ) + PF / TI ) + PF ) + CI ) / TI
+Best: -5.0 	[1,0,0,1,1,0,1,2,1,1,0,0,1,2,0,0,2,0,2,2,1,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * CI * PF ) + CI ) * CI ) + PF / TI ) + PF ) + CI ) / TI
+Best: -10.0 	[0,0,2,1,0,0,1,1,1,2,0,0,1,1,1,1,1,0,1,0,0,2,2,1,2,1,1,0,0,1,1,2,0,2,2,0,1,0,2,2,1,2,0,2,2,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -10.0
+Normalized fitness: 0.43478260869565216
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( Delta * CI * PF ) + CI ) * CI ) + PF / TI ) + PF ) + CI ) / TI
+Best: -21.0 	[0,1,1,0,0,1,2,1,1,1,1,0,1,1,0,0,1,2,1,1,2,1,1,0,0,1,2,2,1,0,1,1,0,1,1,1,0,1,2,1,1,1,1,1,0,0,2,1,0,0,1,2,2,1,1,0,0,2,2,1,2,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.4903381642512077
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( ( ( ( TI / Delta ) / TI ) / Delta / TI ) / Delta / TI ) / Delta ) / TI ) / Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( ( ( TI / Delta ) / TI ) / Delta / TI ) / Delta / TI ) / Delta ) / TI ) / Delta

@@ -1,0 +1,10 @@
+Host --> pegasus
+Init Time: Seg Set 12 16:22:22 BRT 2016
+Seed: +
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( PF - ( ( ( ( ( ( TI / Delta + PF ) - TI ) / CI ) + PF ) - CI ) * TI ) / Delta )
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF - ( ( ( ( ( ( TI / Delta + PF ) - TI ) / CI ) + PF ) - CI ) * TI ) / Delta )
+Best: -5.0 	[2,0,0,2,2,1,0,2,2,0,2,2,1,0,0,1,2,2,1,1,0,0]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF - ( ( ( ( ( ( TI / Delta + PF ) - TI ) / CI ) + PF ) - CI ) * TI ) / Delta )

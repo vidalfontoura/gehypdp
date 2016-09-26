@@ -69,12 +69,13 @@ public class HighLevelHeuristicGrammarProblem extends AbstractGrammaticalEvoluti
 
 	public void evaluate(VariableIntegerSolution solution) {
 
-		// String selectionFunction = mapperSelection.interpret(solution);
-		String selectionFunction = "RC * Ccurrent * Cava - Cr";
+		String selectionFunction = mapperSelection.interpret(solution);
+		// String selectionFunction = "RC * Ccurrent * Cava - Cr";
 		String acceptanceFunction = mapperAcceptance.interpret(solution);
 
-		// System.out.println("Selection function: " + selectionFunction);
-		System.out.println("Using fixed Selection function: " + selectionFunction);
+		System.out.println("Selection function: " + selectionFunction);
+		// System.out.println("Using fixed Selection function: " +
+		// selectionFunction);
 		System.out.println("Acceptance function: " + acceptanceFunction);
 
 		List<Double> fitnesses = Lists.newArrayList();

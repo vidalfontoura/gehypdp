@@ -13954,3 +13954,1055 @@ Overall fitness: 1.8868184955141476
 Using fixed Selection function: RC * Ccurrent * Cava - Cr
 Acceptance function: ( CI / TI - PF * ( PF + PF ) / TI / PF ) / Delta / PF / TI
 Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / TI / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / TI / PF ) / Delta / PF / TI
+Best: -15.0 	[0,0,2,1,1,1,1,0,0,2,2,0,0,2,0,0,2,0,0,2,2,1,2,0,1,1,2,2,1,0,2,0,1,1,2,1,0,2,2,1,1,2,2,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / TI / PF ) / Delta / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.937888198757764
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI + ( PF * ( PF - Delta ) / Delta / PF ) ) / TI / Delta - PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF * ( PF - Delta ) / Delta / PF ) ) / TI / Delta - PF
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF * ( PF - Delta ) / Delta / PF ) ) / TI / Delta - PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF * ( PF - Delta ) / Delta / PF ) ) / TI / Delta - PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / CI - PF - ( ( PF + Delta ) / Delta ) + PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + Delta ) / Delta ) + PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + Delta ) / Delta ) + PF ) / Delta / PF / TI
+Best: -18.0 	[1,1,2,2,0,0,2,2,1,1,1,1,0,0,1,1,1,2,2,1,1,1,1,1,1,1,1,0,0,1,1,2,1,0,0,2,2,0,0,2,1,0,0,1,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -18.0
+Normalized fitness: 0.782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + Delta ) / Delta ) + PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.4334023464458245
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI - PF * ( PF / PF ) * Delta / Delta ) / Delta / PF ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF / PF ) * Delta / Delta ) / Delta / PF ) / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF / PF ) * Delta / Delta ) / Delta / PF ) / TI
+Best: -15.0 	[0,0,2,1,1,1,1,0,0,2,2,0,0,2,0,0,2,0,0,2,2,1,2,0,1,1,2,2,1,0,2,0,1,1,2,1,0,2,2,1,1,2,2,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF / PF ) * Delta / Delta ) / Delta / PF ) / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.937888198757764
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI / PF * ( PF * PF ) / Delta - PF ) / Delta / PF / TI )
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI / PF * ( PF * PF ) / Delta - PF ) / Delta / PF / TI )
+Best: -8.0 	[1,0,1,2,0,0,1,0,1,2,1,0,2,0,0,2,0,1,1,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI / PF * ( PF * PF ) / Delta - PF ) / Delta / PF / TI )
+Best: -14.0 	[1,1,2,2,0,1,0,0,2,1,0,1,0,2,0,2,1,1,0,1,1,0,1,2,2,1,0,1,0,1,0,2,1,1,1,0,0,1,1,2,1,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -14.0
+Normalized fitness: 0.6086956521739131
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI / PF * ( PF * PF ) / Delta - PF ) / Delta / PF / TI )
+Best: -26.0 	[0,0,2,1,1,1,0,0,2,2,0,1,2,0,2,1,2,1,2,1,0,1,0,2,2,0,1,1,2,1,0,2,0,0,2,2,0,2,2,0,2,0,2,1,0,2,2,1,1,0,2,1,1,2,2,1,0,2,1,0,0,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 2.116632160110421
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - TI - ( ( CI + PF ) / Delta ) / PF ) / Delta / TI / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - TI - ( ( CI + PF ) / Delta ) / PF ) / Delta / TI / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - TI - ( ( CI + PF ) / Delta ) / PF ) / Delta / TI / TI
+Best: -18.0 	[1,1,2,2,0,0,2,2,1,1,1,1,0,0,1,1,1,2,2,1,1,1,1,1,1,1,1,0,0,1,1,2,1,0,0,2,2,0,0,2,1,0,0,1,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -18.0
+Normalized fitness: 0.782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - TI - ( ( CI + PF ) / Delta ) / PF ) / Delta / TI / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.4334023464458245
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: CI - PF - ( ( CI - PF / TI ) - TI ) / Delta * PF - PF - TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = CI - PF - ( ( CI - PF / TI ) - TI ) / Delta * PF - PF - TI
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = CI - PF - ( ( CI - PF / TI ) - TI ) / Delta * PF - PF - TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = CI - PF - ( ( CI - PF / TI ) - TI ) / Delta * PF - PF - TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / ( CI / TI - PF * Delta / Delta / Delta ) ) * TI / PF * Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI / TI - PF * Delta / Delta / Delta ) ) * TI / PF * Delta
+Best: -6.0 	[1,0,0,2,1,1,1,0,0,1,1,1,2,2,0,0,2,2,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI / TI - PF * Delta / Delta / Delta ) ) * TI / PF * Delta
+Best: -12.0 	[1,1,0,0,2,1,1,0,0,2,1,1,1,0,0,1,1,1,2,2,1,0,2,2,0,0,1,1,2,2,0,2,2,0,1,1,0,0,1,2,1,0,0,2,1,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI / TI - PF * Delta / Delta / Delta ) ) * TI / PF * Delta
+Best: -21.0 	[0,0,1,0,2,1,1,1,0,1,2,1,1,1,0,0,2,0,0,2,2,0,1,2,0,1,1,2,0,1,0,0,2,0,2,1,2,1,2,1,0,0,1,2,0,1,0,0,2,1,1,1,0,1,1,2,2,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.6884057971014492
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI * CI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * CI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -4.0 	[2,2,1,1,2,2,0,0,1,0,2,2,0,0,1,0,2,2,1,0,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -4.0
+Normalized fitness: 0.4444444444444444
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * CI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -13.0 	[1,1,2,2,0,1,0,0,2,1,0,1,1,0,1,1,1,2,2,1,0,0,2,0,2,0,1,0,0,2,1,2,0,2,2,0,0,2,2,0,2,2,1,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -13.0
+Normalized fitness: 0.5652173913043478
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * CI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -26.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,0,1,1,1,1,2,1,2,2,0,0,2,2,0,1,1,0,2,2,1,0,1,0,0,2,1,0,1,2,2,1,0,0,1,2,0,0,2,0,0,2,1,2,2,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.6287094547964114
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( Delta / CI - PF - ( ( PF + PF ) / Delta ) * PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / CI - PF - ( ( PF + PF ) / Delta ) * PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / CI - PF - ( ( PF + PF ) / Delta ) * PF ) / Delta / PF / TI
+Best: -16.0 	[1,1,2,2,0,1,0,0,2,1,0,1,1,0,1,1,1,2,2,1,0,0,2,2,0,0,1,1,0,0,2,2,1,0,0,2,2,0,1,1,1,0,0,2,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -16.0
+Normalized fitness: 0.6956521739130435
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / CI - PF - ( ( PF + PF ) / Delta ) * PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.346445824706694
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( Delta / Delta - PF * ( PF + PF ) / PF / TI ) + Delta / CI + Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / Delta - PF * ( PF + PF ) / PF / TI ) + Delta / CI + Delta
+Best: -6.0 	[0,2,2,1,0,0,1,2,2,1,0,0,2,0,0,2,0,2,0,2,2,0]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / Delta - PF * ( PF + PF ) / PF / TI ) + Delta / CI + Delta
+Best: -12.0 	[1,1,0,0,1,2,1,0,2,1,1,0,1,0,0,2,2,0,0,2,0,2,2,0,1,0,2,2,1,2,1,0,2,1,1,1,0,2,0,0,2,2,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / Delta - PF * ( PF + PF ) / PF / TI ) + Delta / CI + Delta
+Best: -23.0 	[0,1,1,0,1,0,0,2,2,0,1,0,2,1,0,0,1,2,0,2,1,1,0,0,1,2,0,2,2,1,0,0,2,2,1,0,1,1,0,1,1,1,1,0,0,2,1,0,2,2,1,1,1,1,2,2,1,1,0,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -23.0
+Normalized fitness: 0.5476190476190477
+Overall fitness: 1.736024844720497
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: Delta / ( TI - PF / Delta ) / ( ( PF / Delta / PF / Delta ) / PF ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta / ( TI - PF / Delta ) / ( ( PF / Delta / PF / Delta ) / PF ) / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta / ( TI - PF / Delta ) / ( ( PF / Delta / PF / Delta ) / PF ) / TI
+Best: -12.0 	[1,1,1,2,1,0,1,1,2,1,1,2,1,0,1,2,2,1,0,1,0,0,2,2,1,1,2,2,0,1,2,0,0,2,1,2,2,0,2,0,1,1,2,2,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta / ( TI - PF / Delta ) / ( ( PF / Delta / PF / Delta ) / PF ) / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.8074534161490683
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( Delta / TI * PF - ( PF / TI ) / CI - PF ) / PF * PF * TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / TI * PF - ( PF / TI ) / CI - PF ) / PF * PF * TI
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / TI * PF - ( PF / TI ) / CI - PF ) / PF * PF * TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( Delta / TI * PF - ( PF / TI ) / CI - PF ) / PF * PF * TI
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + PF ) / PF / PF ) / TI / PF + PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / PF / PF ) / TI / PF + PF
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / PF / PF ) / TI / PF + PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / PF / PF ) / TI / PF + PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( TI / ( TI - Delta / ( PF * PF ) / Delta / PF ) ) / PF - TI - Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / ( TI - Delta / ( PF * PF ) / Delta / PF ) ) / PF - TI - Delta
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / ( TI - Delta / ( PF * PF ) / Delta / PF ) ) / PF - TI - Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / ( TI - Delta / ( PF * PF ) / Delta / PF ) ) / PF - TI - Delta
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( PF * PF / ( PF - ( ( Delta / PF * PF ) * TI ) ) ) / PF * TI + Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * PF / ( PF - ( ( Delta / PF * PF ) * TI ) ) ) / PF * TI + Delta
+Best: -5.0 	[0,2,2,0,2,0,0,2,2,1,1,2,2,0,1,1,0,2,2,1,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * PF / ( PF - ( ( Delta / PF * PF ) * TI ) ) ) / PF * TI + Delta
+Best: -9.0 	[1,0,1,2,2,1,1,1,0,1,2,2,1,1,1,1,0,1,2,2,1,0,0,1,2,1,2,1,2,0,2,1,1,0,0,1,1,2,0,1,0,0,2,2,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -9.0
+Normalized fitness: 0.391304347826087
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * PF / ( PF - ( ( Delta / PF * PF ) * TI ) ) ) / PF * TI + Delta
+Best: -20.0 	[0,0,1,0,1,1,1,0,0,1,2,2,1,1,2,1,0,1,0,2,2,1,1,1,1,1,1,2,1,2,2,0,0,1,2,1,2,1,0,0,1,1,1,0,0,2,1,2,2,0,1,2,1,0,1,1,1,0,0,1,1,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -20.0
+Normalized fitness: 0.47619047619047616
+Overall fitness: 1.4230503795721188
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( PF * ( PF / ( PF + TI ) / CI - PF ) - PF ) * Delta / PF - PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * ( PF / ( PF + TI ) / CI - PF ) - PF ) * Delta / PF - PF
+Best: -7.0 	[1,2,2,0,2,2,0,0,1,1,2,2,1,1,1,2,0,2,0,2,2,0]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * ( PF / ( PF + TI ) / CI - PF ) - PF ) * Delta / PF - PF
+Best: -12.0 	[0,1,0,0,2,1,0,1,1,1,0,1,1,1,1,0,0,1,1,1,2,2,1,1,0,1,2,0,2,1,1,1,1,0,0,2,1,1,0,1,0,1,1,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( PF * ( PF / ( PF + TI ) / CI - PF ) - PF ) * Delta / PF - PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.7995169082125604
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - Delta - ( PF + PF * Delta ) * TI ) / PF - CI * PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - Delta - ( PF + PF * Delta ) * TI ) / PF - CI * PF
+Best: -6.0 	[1,0,0,2,0,0,2,1,0,0,2,2,0,0,2,2,1,1,2,2,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - Delta - ( PF + PF * Delta ) * TI ) / PF - CI * PF
+Best: -12.0 	[1,0,1,0,0,2,2,0,0,1,1,1,1,1,1,0,0,2,2,0,0,2,1,1,1,1,0,0,2,0,0,2,2,1,0,1,1,1,0,1,0,0,2,2,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - Delta - ( PF + PF * Delta ) * TI ) / PF - CI * PF
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.712215320910973
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: PF + ( CI - ( Delta + ( TI + PF ) / Delta ) - PF / Delta ) / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF + ( CI - ( Delta + ( TI + PF ) / Delta ) - PF / Delta ) / PF / TI
+Best: -7.0 	[1,0,0,2,0,0,2,1,0,0,2,0,2,1,0,0,2,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF + ( CI - ( Delta + ( TI + PF ) / Delta ) - PF / Delta ) / PF / TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF + ( CI - ( Delta + ( TI + PF ) / Delta ) - PF / Delta ) / PF / TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.6494133885438234
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI - PF * ( PF + PF ) / Delta / Delta ) / Delta / PF ) - CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + PF ) / Delta / Delta ) / Delta / PF ) - CI
+Best: -5.0 	[0,1,0,0,2,0,2,0,0,2,0,0,2,2,0,0,2,2,1,0,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + PF ) / Delta / Delta ) / Delta / PF ) - CI
+Best: -10.0 	[1,1,2,2,1,1,1,1,0,1,1,1,1,2,2,1,0,1,1,2,2,1,1,0,1,1,0,1,1,0,1,2,0,2,0,0,2,1,0,1,0,2,2,1,2,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -10.0
+Normalized fitness: 0.43478260869565216
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + PF ) / Delta / Delta ) / Delta / PF ) - CI
+Best: -17.0 	[0,0,1,0,2,2,1,2,0,0,2,1,1,1,0,1,0,1,0,2,2,1,2,1,0,0,1,1,1,1,0,1,0,0,2,2,1,2,1,1,1,1,0,0,2,2,1,1,1,0,0,1,1,2,2,1,0,0,1,2,1,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -17.0
+Normalized fitness: 0.40476190476190477
+Overall fitness: 1.3951000690131126
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI - CI ) / Delta ) + ( PF / Delta - PF / Delta / PF ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - CI ) / Delta ) + ( PF / Delta - PF / Delta / PF ) / TI
+Best: -6.0 	[1,0,0,2,0,0,2,1,0,1,0,2,2,1,0,1,0,1,1,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - CI ) / Delta ) + ( PF / Delta - PF / Delta / PF ) / TI
+Best: -12.0 	[0,0,1,1,0,0,2,1,1,0,2,0,1,0,1,0,1,2,2,1,0,2,1,0,1,2,0,2,2,0,1,2,2,1,1,0,0,2,2,0,1,2,2,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - CI ) / Delta ) + ( PF / Delta - PF / Delta / PF ) / TI
+Best: -19.0 	[1,1,2,0,2,2,0,1,2,2,1,1,0,0,2,0,0,2,2,1,2,1,0,1,1,0,2,2,1,2,1,1,1,0,1,1,1,0,1,0,1,1,2,1,1,0,2,2,1,2,1,1,0,1,1,1,1,0,0,1,1,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -19.0
+Normalized fitness: 0.4523809523809524
+Overall fitness: 1.6407867494824016
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: PF * CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF * CI
+Best: -7.0 	[1,0,0,2,1,1,1,0,0,1,1,1,2,0,2,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF * CI
+Best: -11.0 	[1,1,0,0,2,1,0,0,1,2,1,0,1,1,0,1,1,2,1,1,1,2,0,1,1,0,1,1,0,1,0,2,1,1,1,2,1,0,1,0,0,2,2,0,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -11.0
+Normalized fitness: 0.4782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF * CI
+Best: -23.0 	[0,0,1,0,1,1,0,0,2,1,1,0,0,2,2,0,1,0,0,2,2,0,1,2,0,1,1,0,0,1,2,2,1,1,1,0,0,2,1,2,1,1,0,0,2,0,0,2,1,2,0,1,0,0,2,1,2,0,0,1,0,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -23.0
+Normalized fitness: 0.5476190476190477
+Overall fitness: 1.8036576949620429
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI / CI * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI / CI * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI / CI * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -12.0 	[1,1,1,2,1,0,1,1,2,1,1,2,1,0,1,2,2,1,0,1,0,0,2,2,1,1,2,2,0,1,2,0,0,2,1,2,2,0,2,0,1,1,2,2,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI / CI * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.8074534161490683
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - CI * ( PF * PF ) / Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - CI * ( PF * PF ) / Delta / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,1,0,2,2,1,1,2,0,0,2,1,2,2,0,1,2,2,0,1,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - CI * ( PF * PF ) / Delta / PF ) / Delta / PF / TI
+Best: -12.0 	[1,1,2,2,0,1,0,0,2,0,2,0,0,2,0,2,0,0,2,2,1,1,2,1,0,1,0,0,2,1,0,1,1,2,2,1,1,0,0,1,2,1,1,2,2,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - CI * ( PF * PF ) / Delta / PF ) / Delta / PF / TI
+Best: -24.0 	[0,0,2,0,0,1,2,2,1,0,0,1,1,1,2,0,1,0,2,1,0,1,0,0,2,2,0,0,2,2,1,1,1,1,1,1,2,0,0,2,1,0,0,1,2,0,0,2,1,1,2,1,2,0,1,0,0,2,2,0,1,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -24.0
+Normalized fitness: 0.5714285714285714
+Overall fitness: 1.7598343685300206
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI * TI - ( Delta + ( PF + PF ) / TI ) - PF ) / TI / PF / CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * TI - ( Delta + ( PF + PF ) / TI ) - PF ) / TI / PF / CI
+Best: -7.0 	[1,0,0,2,0,0,2,2,1,2,0,0,1,1,2,0,2,2,1,1,2,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * TI - ( Delta + ( PF + PF ) / TI ) - PF ) / TI / PF / CI
+Best: -11.0 	[0,1,2,2,0,1,0,0,2,0,2,1,2,1,1,1,0,0,2,2,0,1,1,1,1,0,2,0,1,1,0,1,0,2,2,0,0,2,1,1,0,0,1,2,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -11.0
+Normalized fitness: 0.4782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI * TI - ( Delta + ( PF + PF ) / TI ) - PF ) / TI / PF / CI
+Best: -24.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,1,1,0,2,2,0,0,2,2,1,2,1,1,0,2,0,1,1,1,2,2,0,1,1,2,2,0,0,1,0,2,2,0,2,0,2,2,1,2,0,0,1,0,1,1,1,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -24.0
+Normalized fitness: 0.5714285714285714
+Overall fitness: 1.8274672187715666
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI - PF + Delta / Delta / Delta / PF ) / PF ) + Delta * Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF + Delta / Delta / Delta / PF ) / PF ) + Delta * Delta
+Best: -6.0 	[1,0,0,2,0,0,2,1,0,0,2,0,2,0,0,2,2,1,1,1,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF + Delta / Delta / Delta / PF ) / PF ) + Delta * Delta
+Best: -11.0 	[1,0,0,2,1,0,0,2,1,0,0,2,1,1,0,0,2,2,1,0,1,0,0,2,2,1,0,1,0,2,0,2,2,0,0,2,1,0,1,1,0,0,2,2,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -11.0
+Normalized fitness: 0.4782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF + Delta / Delta / Delta / PF ) / PF ) + Delta * Delta
+Best: -21.0 	[1,0,0,2,0,0,2,0,2,2,0,1,0,1,0,2,0,2,2,1,1,1,1,1,0,1,0,0,2,2,0,0,2,2,0,2,0,1,2,0,0,2,0,2,1,0,1,1,0,1,0,0,2,2,1,2,0,0,2,0,0,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.644927536231884
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( Delta * Delta ) - Delta - TI + TI / CI + PF ) - CI - TI + TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta * Delta ) - Delta - TI + TI / CI + PF ) - CI - TI + TI
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta * Delta ) - Delta - TI + TI / CI + PF ) - CI - TI + TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta * Delta ) - Delta - TI + TI / CI + PF ) - CI - TI + TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / ( ( PF / TI ) + PF - PF + PF ) / TI ) / CI / Delta / PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( ( PF / TI ) + PF - PF + PF ) / TI ) / CI / Delta / PF
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( ( PF / TI ) + PF - PF + PF ) / TI ) / CI / Delta / PF
+Best: -11.0 	[2,1,0,0,2,0,2,1,2,2,0,2,0,0,2,1,2,2,0,1,0,0,2,2,1,0,1,1,0,0,2,2,0,2,0,0,2,0,1,1,0,1,0,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -11.0
+Normalized fitness: 0.4782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( ( PF / TI ) + PF - PF + PF ) / TI ) / CI / Delta / PF
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.763975155279503
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI - ( TI + PF * ( PF + PF ) / Delta / Delta ) ) / Delta / PF ) / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI - ( TI + PF * ( PF + PF ) / Delta / Delta ) ) / Delta / PF ) / TI
+Best: -8.0 	[1,0,0,2,1,1,2,0,0,2,0,0,2,0,0,2,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI - ( TI + PF * ( PF + PF ) / Delta / Delta ) ) / Delta / PF ) / TI
+Best: -14.0 	[1,1,2,2,0,2,0,0,1,1,2,1,1,2,1,1,1,0,0,1,2,2,1,0,1,2,1,2,2,0,1,1,1,1,1,1,1,2,2,1,1,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -14.0
+Normalized fitness: 0.6086956521739131
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI - ( TI + PF * ( PF + PF ) / Delta / Delta ) ) / Delta / PF ) / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.259489302967564
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - ( ( PF + PF ) / Delta ) - TI ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - TI ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,1,1,2,0,0,2,0,0,2,0,0,2,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - TI ) / Delta / PF / TI
+Best: -14.0 	[1,1,2,2,0,2,0,0,1,1,2,1,1,2,1,1,1,0,0,1,2,2,1,0,1,2,1,2,2,0,1,1,1,1,1,1,1,2,2,1,1,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -14.0
+Normalized fitness: 0.6086956521739131
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - TI ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.259489302967564
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / CI - PF - ( ( TI + PF ) / Delta ) - PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( TI + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,1,1,2,0,0,2,0,0,2,0,0,2,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( TI + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -14.0 	[1,1,2,2,0,2,0,0,1,1,2,1,1,2,1,1,1,0,0,1,2,2,1,0,1,2,1,2,2,0,1,1,1,1,1,1,1,2,2,1,1,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -14.0
+Normalized fitness: 0.6086956521739131
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( TI + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.259489302967564
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( TI / TI - PF * Delta / PF / Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / TI - PF * Delta / PF / Delta / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / TI - PF * Delta / PF / Delta / PF ) / Delta / PF / TI
+Best: -15.0 	[0,0,2,1,1,1,1,0,0,2,2,0,0,2,0,0,2,0,0,2,2,1,2,0,1,1,2,2,1,0,2,0,1,1,2,1,0,2,2,1,1,2,2,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI / TI - PF * Delta / PF / Delta / PF ) / Delta / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.937888198757764
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI + PF + ( PF + PF ) / Delta / PF ) / Delta / CI - Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + PF + ( PF + PF ) / Delta / PF ) / Delta / CI - Delta
+Best: -7.0 	[1,0,0,2,0,0,2,1,0,0,2,0,2,1,0,0,2,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + PF + ( PF + PF ) / Delta / PF ) / Delta / CI - Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + PF + ( PF + PF ) / Delta / PF ) / Delta / CI - Delta
+Best: -20.0 	[1,1,1,0,0,2,0,0,2,1,1,0,2,1,0,0,2,0,0,2,2,1,1,1,0,1,0,1,1,0,2,2,1,2,0,2,2,0,1,1,1,1,1,0,1,1,0,1,0,0,2,2,1,2,0,0,2,2,1,2,1,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -20.0
+Normalized fitness: 0.47619047619047616
+Overall fitness: 1.6017943409247757
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / ( CI - PF - ( ( PF + PF ) / Delta ) - PF ) ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI - PF - ( ( PF + PF ) / Delta ) - PF ) ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI - PF - ( ( PF + PF ) / Delta ) - PF ) ) / Delta / PF / TI
+Best: -15.0 	[0,0,2,1,1,1,1,0,0,2,2,0,0,2,0,0,2,0,0,2,2,1,2,0,1,1,2,2,1,0,2,0,1,1,2,1,0,2,2,1,1,2,2,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( CI - PF - ( ( PF + PF ) / Delta ) - PF ) ) / Delta / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.937888198757764
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF + ( PF * PF ) / PF + Delta ) / PF - PF * CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( PF * PF ) / PF + Delta ) / PF - PF * CI
+Best: -6.0 	[1,0,0,2,0,0,2,1,0,0,2,2,0,0,2,2,1,1,2,2,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( PF * PF ) / PF + Delta ) / PF - PF * CI
+Best: -12.0 	[1,1,0,1,1,1,1,0,0,2,1,1,0,2,1,0,2,2,0,0,2,0,1,1,0,1,1,0,2,1,0,2,1,0,2,0,0,1,0,2,1,0,2,1,1,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( PF * PF ) / PF + Delta ) / PF - PF * CI
+Best: -23.0 	[1,0,0,1,2,0,0,2,1,0,0,1,2,0,1,1,1,2,1,0,0,1,2,1,1,0,0,1,1,2,2,1,1,0,0,2,0,0,2,2,1,0,2,0,1,1,1,0,2,0,0,1,0,2,2,1,0,0,2,2,1,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -23.0
+Normalized fitness: 0.5476190476190477
+Overall fitness: 1.736024844720497
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / PF / Delta * PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / PF / Delta * PF
+Best: -6.0 	[1,0,1,1,1,0,0,2,0,1,2,0,2,0,0,2,0,1,1,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / PF / Delta * PF
+Best: -10.0 	[1,0,1,2,2,0,2,0,0,1,1,1,0,0,2,2,1,0,1,0,0,2,2,1,1,2,1,1,1,0,1,1,1,2,2,1,1,0,2,2,0,2,1,0,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -10.0
+Normalized fitness: 0.43478260869565216
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / PF / Delta * PF
+Best: -22.0 	[1,0,0,1,1,0,1,0,1,1,1,1,1,0,0,2,2,0,0,2,2,1,0,0,1,2,1,0,0,2,2,1,1,0,1,0,0,2,1,2,2,0,1,0,1,0,1,2,2,0,0,1,0,1,2,1,2,2,0,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.6252587991718426
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( TI - PF * PF * PF ) + PF * PF ) / TI ) / CI - PF - Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF * PF * PF ) + PF * PF ) / TI ) / CI - PF - Delta
+Best: -7.0 	[0,0,2,2,0,0,2,0,0,2,0,0,2,1,1,1,1,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF * PF * PF ) + PF * PF ) / TI ) / CI - PF - Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF * PF * PF ) + PF * PF ) / TI ) / CI - PF - Delta
+Best: -22.0 	[0,0,2,0,0,1,1,1,1,1,0,2,1,2,1,0,1,0,0,2,2,1,1,0,1,1,0,0,1,2,1,2,0,0,2,2,1,1,0,2,0,1,1,0,2,0,0,2,0,0,1,2,2,0,2,2,0,1,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.6494133885438234
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -6.0 	[2,0,0,2,0,0,2,0,0,2,1,0,1,1,0,1,1,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -12.0 	[0,0,2,0,1,1,1,1,2,1,0,1,1,0,1,1,2,2,1,1,1,1,1,1,1,0,1,0,0,2,1,2,2,0,0,1,1,1,0,2,0,0,1,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -24.0 	[0,1,1,0,1,0,0,2,2,0,2,1,1,0,1,1,1,1,1,0,0,2,2,1,1,1,0,0,2,1,0,0,1,2,2,1,0,2,0,2,1,0,0,1,1,2,1,0,1,1,0,2,0,1,0,1,1,0,1,0,0,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -24.0
+Normalized fitness: 0.5714285714285714
+Overall fitness: 1.7598343685300206
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / TI - PF * ( PF + TI ) / PF / Delta ) / TI - TI ) + Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + TI ) / PF / Delta ) / TI - TI ) + Delta
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + TI ) / PF / Delta ) / TI - TI ) + Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / TI - PF * ( PF + TI ) / PF / Delta ) / TI - TI ) + Delta
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( TI - PF - CI * PF ) + PF / Delta ) - PF ) + PF * PF / PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF - CI * PF ) + PF / Delta ) - PF ) + PF * PF / PF
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF - CI * PF ) + PF / Delta ) - PF ) + PF * PF / PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( TI - PF - CI * PF ) + PF / Delta ) - PF ) + PF * PF / PF
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( ( PF + PF ) / CI ) / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( ( PF + PF ) / CI ) / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,0,0,2,0,0,2,1,1,0,1,1,0,1,1,2,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( ( PF + PF ) / CI ) / PF ) / Delta / PF / TI
+Best: -9.0 	[2,1,0,0,1,2,2,0,0,1,2,2,0,1,2,1,1,2,2,1,0,0,1,2,1,1,0,1,0,0,2,2,1,2,0,1,1,0,0,2,1,2,0,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -9.0
+Normalized fitness: 0.391304347826087
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( ( PF + PF ) / CI ) / PF ) / Delta / PF / TI
+Best: -23.0 	[0,1,1,2,2,1,1,0,0,2,0,0,2,2,0,1,0,0,2,1,1,1,1,1,1,1,1,1,0,0,1,2,2,0,2,2,0,0,1,0,2,0,0,2,0,2,1,2,0,1,0,1,2,0,0,1,1,1,0,0,1,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -23.0
+Normalized fitness: 0.5476190476190477
+Overall fitness: 1.6055900621118013
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) + PF / Delta / PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) + PF / Delta / PF
+Best: -5.0 	[1,2,2,1,1,2,1,0,2,1,1,1,2,2,1,1,0,0,2,2,1,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) + PF / Delta / PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) + PF / Delta / PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.4033816425120773
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - CI ) - PF / Delta - PF / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) - PF / Delta - PF / Delta / PF / TI
+Best: -7.0 	[1,2,2,1,1,2,0,2,2,0,2,2,0,1,1,0,2,2,1,1,2,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) - PF / Delta - PF / Delta / PF / TI
+Best: -12.0 	[1,0,1,0,0,2,2,0,0,1,1,1,1,1,1,0,0,2,2,0,0,2,1,1,1,1,0,0,2,0,0,2,2,1,0,1,1,1,0,1,0,0,2,2,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) - PF / Delta - PF / Delta / PF / TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.823326432022084
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / ( PF + PF * PF + CI / Delta ) / PF ) / Delta / PF * PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF + PF * PF + CI / Delta ) / PF ) / Delta / PF * PF
+Best: -6.0 	[1,2,2,1,1,2,0,1,0,1,2,2,1,1,2,0,2,1,1,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF + PF * PF + CI / Delta ) / PF ) / Delta / PF * PF
+Best: -13.0 	[1,1,0,0,2,0,1,1,2,1,0,1,0,0,2,2,0,0,1,2,2,1,1,1,1,1,0,0,2,0,0,2,2,0,0,2,2,1,1,2,0,0,1,0,2,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -13.0
+Normalized fitness: 0.5652173913043478
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF + PF * PF + CI / Delta ) / PF ) / Delta / PF * PF
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.8509316770186335
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -6.0 	[2,0,0,2,0,0,2,0,0,2,1,0,1,1,0,1,1,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -12.0 	[0,0,2,0,1,1,1,1,2,1,0,1,1,0,1,1,2,2,1,1,1,1,1,1,1,0,1,0,0,2,1,2,2,0,0,1,1,1,0,2,0,0,1,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = Delta
+Best: -24.0 	[0,1,1,0,1,0,0,2,2,0,2,1,1,0,1,1,1,1,1,0,0,2,2,1,1,1,0,0,2,1,0,0,1,2,2,1,0,2,0,2,1,0,0,1,1,2,1,0,1,1,0,2,0,1,0,1,1,0,1,0,0,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -24.0
+Normalized fitness: 0.5714285714285714
+Overall fitness: 1.7598343685300206
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / PF - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -7.0 	[2,0,0,2,0,0,2,1,1,0,0,2,0,0,2,2,1,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -15.0 	[1,0,2,0,0,1,2,2,1,1,1,1,0,0,2,1,0,1,0,0,2,2,1,2,1,1,0,2,2,1,2,0,0,2,2,0,0,2,2,1,0,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.191856452726018
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( PF * Delta ) / TI - TI ) + Delta * PF ) / PF * TI / CI * PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( PF * Delta ) / TI - TI ) + Delta * PF ) / PF * TI / CI * PF
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( PF * Delta ) / TI - TI ) + Delta * PF ) / PF * TI / CI * PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( PF * Delta ) / TI - TI ) + Delta * PF ) / PF * TI / CI * PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / CI - PF - ( ( PF + PF ) * CI ) / Delta ) - PF / Delta * Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + PF ) * CI ) / Delta ) - PF / Delta * Delta
+Best: -7.0 	[1,2,2,1,1,2,0,2,2,0,2,2,0,1,1,0,2,2,1,1,2,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + PF ) * CI ) / Delta ) - PF / Delta * Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / CI - PF - ( ( PF + PF ) * CI ) / Delta ) - PF / Delta * Delta
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.6494133885438234
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI - TI - PF * Delta / Delta / Delta / PF ) / PF / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI - TI - PF * Delta / Delta / Delta / PF ) / PF / PF / TI
+Best: -7.0 	[1,2,1,0,2,2,0,2,2,0,2,1,0,2,1,1,2,1,1,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI - TI - PF * Delta / Delta / Delta / PF ) / PF / PF / TI
+Best: -15.0 	[0,1,0,0,2,1,1,0,1,1,2,0,1,0,0,2,0,1,1,2,2,1,1,0,1,2,1,0,1,0,1,1,0,1,1,2,2,1,1,0,2,2,1,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI - TI - PF * Delta / Delta / Delta / PF ) / PF / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 2.0489993098688752
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF + ( Delta / Delta ) / PF / Delta ) / Delta / PF + Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( Delta / Delta ) / PF / Delta ) / Delta / PF + Delta
+Best: -6.0 	[1,0,0,2,0,0,2,1,0,0,2,0,2,0,0,2,2,1,1,1,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( Delta / Delta ) / PF / Delta ) / Delta / PF + Delta
+Best: -13.0 	[1,1,0,1,1,1,1,0,1,1,1,0,0,2,1,0,0,1,2,2,1,1,2,1,1,1,1,1,1,1,1,2,1,0,1,1,1,1,0,0,2,0,0,2,1,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -13.0
+Normalized fitness: 0.5652173913043478
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF + ( Delta / Delta ) / PF / Delta ) / Delta / PF + Delta
+Best: -21.0 	[1,0,0,2,0,0,2,0,2,2,0,1,0,1,0,2,0,2,2,1,1,1,1,1,0,1,0,0,2,2,0,0,2,2,0,2,0,1,2,0,0,2,0,2,1,0,1,1,0,1,0,0,2,2,1,2,0,0,2,0,0,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.7318840579710144
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( Delta - Delta ) - TI - TI + TI / CI / PF ) - PF - TI + TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta - Delta ) - TI - TI + TI / CI / PF ) - PF - TI + TI
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta - Delta ) - TI - TI + TI / CI / PF ) - PF - TI + TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( Delta - Delta ) - TI - TI + TI / CI / PF ) - PF - TI + TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / Delta - PF - ( ( PF + PF ) / Delta ) / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF - ( ( PF + PF ) / Delta ) / PF ) / Delta / PF / TI
+Best: -7.0 	[2,0,0,2,0,0,2,1,1,0,0,2,0,0,2,2,1,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF - ( ( PF + PF ) / Delta ) / PF ) / Delta / PF / TI
+Best: -16.0 	[2,0,1,1,0,0,2,2,1,1,1,1,2,2,1,1,0,1,2,0,0,2,2,1,0,2,0,0,1,0,2,2,0,0,1,2,1,0,0,2,2,0,0,1,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -16.0
+Normalized fitness: 0.6956521739130435
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF - ( ( PF + PF ) / Delta ) / PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.235334713595583
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + PF ) / Delta / TI ) / PF / TI + Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / TI ) / PF / TI + Delta
+Best: -6.0 	[2,0,0,2,0,0,2,0,0,2,1,0,1,1,0,1,1,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / TI ) / PF / TI + Delta
+Best: -12.0 	[0,0,2,0,1,1,1,1,2,1,0,1,1,0,1,1,2,2,1,1,1,1,1,1,1,0,1,0,0,2,1,2,2,0,0,1,1,1,0,2,0,0,1,1,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / TI ) / PF / TI + Delta
+Best: -24.0 	[0,1,1,0,1,0,0,2,2,0,2,1,1,0,1,1,1,1,1,0,0,2,2,1,1,1,0,0,2,1,0,0,1,2,2,1,0,2,0,2,1,0,0,1,1,2,1,0,1,1,0,2,0,1,0,1,1,0,1,0,0,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -24.0
+Normalized fitness: 0.5714285714285714
+Overall fitness: 1.7598343685300206
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * Delta / PF / Delta / PF ) / Delta / TI / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * Delta / PF / Delta / PF ) / Delta / TI / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * Delta / PF / Delta / PF ) / Delta / TI / TI
+Best: -12.0 	[1,1,1,2,1,0,1,1,2,1,1,2,1,0,1,2,2,1,0,1,0,0,2,2,1,1,2,2,0,1,2,0,0,2,1,2,2,0,2,0,1,1,2,2,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * Delta / PF / Delta / PF ) / Delta / TI / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.8074534161490683
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: PF - ( TI - PF * ( PF + PF ) / Delta / PF / Delta ) / PF / Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF - ( TI - PF * ( PF + PF ) / Delta / PF / Delta ) / PF / Delta
+Best: -5.0 	[0,0,1,1,0,0,2,0,1,2,0,0,1,1,1,1,2,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -5.0
+Normalized fitness: 0.5555555555555556
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF - ( TI - PF * ( PF + PF ) / Delta / PF / Delta ) / PF / Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = PF - ( TI - PF * ( PF + PF ) / Delta / PF / Delta ) / PF / Delta
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.427191166321601
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + Delta ) * Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + Delta ) * Delta / PF ) / Delta / PF / TI
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + Delta ) * Delta / PF ) / Delta / PF / TI
+Best: -15.0 	[0,0,2,1,1,1,1,0,0,2,2,0,0,2,0,0,2,0,0,2,2,1,2,0,1,1,2,2,1,0,2,0,1,1,2,1,0,2,2,1,1,2,2,0,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -15.0
+Normalized fitness: 0.6521739130434783
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + Delta ) * Delta / PF ) / Delta / PF / TI
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.937888198757764
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -18.0 	[1,1,2,2,0,0,2,2,1,1,1,1,0,0,1,1,1,2,2,1,1,1,1,1,1,1,1,0,0,1,1,2,1,0,0,2,2,0,0,2,1,0,0,1,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -18.0
+Normalized fitness: 0.782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.4334023464458245
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / PF / CI * PF + PF / Delta - PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF / CI * PF + PF / Delta - PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF / CI * PF + PF / Delta - PF ) / Delta / PF / TI
+Best: -16.0 	[1,1,2,2,0,1,0,0,2,1,0,1,1,0,1,1,1,2,2,1,0,0,2,2,0,0,1,1,0,0,2,2,1,0,0,2,2,0,1,1,1,0,0,2,0,0]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -16.0
+Normalized fitness: 0.6956521739130435
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / PF / CI * PF + PF / Delta - PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.346445824706694
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - CI ) * ( TI - PF / Delta / PF ) / Delta / PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) * ( TI - PF / Delta / PF ) / Delta / PF
+Best: -7.0 	[1,2,2,1,1,2,0,2,2,0,2,2,0,1,1,0,2,2,1,1,2,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) * ( TI - PF / Delta / PF ) / Delta / PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - CI ) * ( TI - PF / Delta / PF ) / Delta / PF
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.6494133885438234
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / ( PF / ( PF / ( PF * PF ) ) - TI ) * TI ) * TI - Delta - PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF / ( PF / ( PF * PF ) ) - TI ) * TI ) * TI - Delta - PF
+Best: -6.0 	[0,2,2,1,0,2,2,0,0,2,2,1,1,2,2,0,1,0,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF / ( PF / ( PF * PF ) ) - TI ) * TI ) * TI - Delta - PF
+Best: -12.0 	[0,1,1,1,0,0,2,2,1,1,1,0,2,2,1,1,2,2,0,1,0,0,2,2,1,0,2,1,1,2,0,0,2,2,1,0,0,2,2,0,2,2,1,1,0,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / ( PF / ( PF / ( PF * PF ) ) - TI ) * TI ) * TI - Delta - PF
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.712215320910973
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -8.0 	[1,0,0,2,0,0,2,0,1,1,1,1,1,0,0,1,2,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.8888888888888888
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -18.0 	[1,1,2,2,0,0,2,2,1,1,1,1,0,0,1,1,1,2,2,1,1,1,1,1,1,1,1,0,0,1,1,2,1,0,0,2,2,0,0,2,1,0,0,1,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -18.0
+Normalized fitness: 0.782608695652174
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( ( PF + PF ) / Delta ) - PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.4334023464458245
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / Delta - PF * ( TI + PF ) / Delta / PF ) / Delta / PF / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF * ( TI + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -7.0 	[2,0,0,2,0,0,2,2,0,0,2,2,1,1,2,0,2,2,0,2,2,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF * ( TI + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -14.0 	[1,1,2,2,0,2,0,0,1,1,2,1,1,2,1,1,1,0,0,1,2,2,1,0,1,2,1,2,2,0,1,1,1,1,1,1,1,2,2,1,1,1,0,0,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -14.0
+Normalized fitness: 0.6086956521739131
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / Delta - PF * ( TI + PF ) / Delta / PF ) / Delta / PF / TI
+Best: -32.0 	[1,2,2,0,2,2,0,2,0,1,0,0,2,0,2,1,0,0,2,1,0,2,1,0,0,2,1,0,2,1,1,0,2,2,1,0,0,1,1,1,0,1,1,2,2,1,0,0,1,1,0,2,0,0,2,2,0,0,1,0,2,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -32.0
+Normalized fitness: 0.7619047619047619
+Overall fitness: 2.1483781918564526
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( TI - PF - CI * PF ) - PF / Delta / PF / Delta * CI - PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI - PF - CI * PF ) - PF / Delta / PF / Delta * CI - PF
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI - PF - CI * PF ) - PF / Delta / PF / Delta * CI - PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( TI - PF - CI * PF ) - PF / Delta / PF / Delta * CI - PF
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.5383022774327122
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( CI / ( PF - ( TI * TI / Delta ) / PF ) / TI ) / PF / Delta / TI )
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / ( PF - ( TI * TI / Delta ) / PF ) / TI ) / PF / Delta / TI )
+Best: -6.0 	[1,2,2,1,1,2,0,0,2,0,1,2,1,2,2,0,1,2,0,2,1,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / ( PF - ( TI * TI / Delta ) / PF ) / TI ) / PF / Delta / TI )
+Best: -12.0 	[1,1,1,2,1,0,1,1,2,1,1,2,1,0,1,2,2,1,0,1,0,0,2,2,1,1,2,2,0,1,2,0,0,2,1,2,2,0,2,0,1,1,2,2,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -12.0
+Normalized fitness: 0.5217391304347826
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( CI / ( PF - ( TI * TI / Delta ) / PF ) / TI ) / PF / Delta / TI )
+Best: -26.0 	[0,1,1,2,2,1,1,0,0,2,2,1,2,1,1,0,1,1,1,0,0,1,2,0,2,1,0,1,2,1,0,0,2,1,0,0,2,2,1,0,2,0,0,2,2,0,1,1,0,1,1,1,1,0,0,2,0,0,2,2,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 1.8074534161490683
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / CI
+Best: -6.0 	[1,2,2,1,0,0,2,1,1,1,2,2,1,0,0,2,1,0,1,0,0,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / CI
+Best: -17.0 	[2,2,0,0,1,1,2,0,0,1,0,2,2,1,2,1,1,0,0,1,2,2,1,0,0,1,2,2,1,1,2,0,2,1,1,0,1,2,2,0,2,2,0,2,1,1]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -17.0
+Normalized fitness: 0.7391304347826086
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / CI
+Best: -26.0 	[1,2,0,0,2,1,1,0,0,1,1,1,2,2,1,1,0,0,2,0,0,2,1,0,1,2,1,0,2,0,0,2,1,1,1,0,1,2,0,2,0,1,0,0,2,1,1,0,1,0,2,2,1,1,2,2,0,1,1,0,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -26.0
+Normalized fitness: 0.6190476190476191
+Overall fitness: 2.0248447204968945
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( TI - PF * PF * Delta ) / PF / Delta / PF ) / TI / CI / TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( TI - PF * PF * Delta ) / PF / Delta / PF ) / TI / CI / TI
+Best: -7.0 	[2,0,0,1,0,1,2,0,0,2,0,0,2,0,2,1,0,1,1,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( TI - PF * PF * Delta ) / PF / Delta / PF ) / TI / CI / TI
+Best: -13.0 	[0,1,0,0,2,1,0,0,2,0,1,1,1,1,0,1,0,0,2,2,1,2,1,0,2,2,0,0,2,1,0,1,1,2,2,1,1,1,0,1,0,0,2,1,2,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -13.0
+Normalized fitness: 0.5652173913043478
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( TI - PF * PF * Delta ) / PF / Delta / PF ) / TI / CI / TI
+Best: -22.0 	[0,0,1,2,2,1,0,2,0,1,0,0,2,2,1,2,1,1,1,1,0,1,0,0,2,2,0,0,2,1,1,0,2,2,1,0,0,2,1,2,0,0,1,0,2,2,0,0,1,2,0,0,2,0,2,2,1,2,0,1,1,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.8668046928916495
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI + ( PF / Delta - PF / Delta / PF ) ) / TI / CI - PF
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF / Delta - PF / Delta / PF ) ) / TI / CI - PF
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF / Delta - PF / Delta / PF ) ) / TI / CI - PF
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI + ( PF / Delta - PF / Delta / PF ) ) / TI / CI - PF
+Best: -21.0 	[0,1,1,0,1,0,0,2,2,1,0,0,2,1,1,1,1,0,0,1,1,1,2,1,2,2,0,1,1,0,1,1,1,0,1,1,0,0,2,2,1,1,0,2,2,1,2,1,0,0,2,2,1,0,0,2,2,1,2,1,0,0]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -21.0
+Normalized fitness: 0.5
+Overall fitness: 1.5144927536231885
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - PF * PF * PF + PF ) / Delta / PF / Delta
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - PF * PF * PF + PF ) / Delta / PF / Delta
+Best: -6.0 	[1,1,1,1,0,0,2,0,0,2,1,1,2,0,1,0,0,2,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - PF * PF * PF + PF ) / Delta / PF / Delta
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - PF * PF * PF + PF ) / Delta / PF / Delta
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.5383022774327122
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( CI / TI - PF - ( TI / PF / Delta ) - PF ) / Delta / Delta / CI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( TI / PF / Delta ) - PF ) / Delta / Delta / CI
+Best: -7.0 	[2,0,0,2,0,0,2,1,2,1,0,0,2,0,0,2,1,0,0,2,1,2]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -7.0
+Normalized fitness: 0.7777777777777778
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( TI / PF / Delta ) - PF ) / Delta / Delta / CI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( CI / TI - PF - ( TI / PF / Delta ) - PF ) / Delta / Delta / CI
+Best: -23.0 	[1,2,1,1,1,0,0,1,1,2,0,2,1,0,0,2,1,1,1,0,0,1,2,1,0,0,2,2,1,1,1,0,1,0,1,2,1,1,1,0,1,2,1,0,0,1,1,2,2,0,0,2,0,1,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -23.0
+Normalized fitness: 0.5476190476190477
+Overall fitness: 1.673222912353347
+Using fixed Selection function: RC * Ccurrent * Cava - Cr
+Acceptance function: ( ( ( ( Delta / Delta ) - PF - TI ) + TI / CI + PF ) - CI - TI ) + TI
+Starting HH framework with instance: 2 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( Delta / Delta ) - PF - TI ) + TI / CI + PF ) - CI - TI ) + TI
+Best: -6.0 	[2,0,0,2,1,2,1,1,1,1,0,0,1,2,0,2,0,0,2,0,0,1]
+End of execution of EG Instance: 2 Seed: 0 Fitness: -6.0
+Normalized fitness: 0.6666666666666666
+Starting HH framework with instance: 5 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( Delta / Delta ) - PF - TI ) + TI / CI + PF ) - CI - TI ) + TI
+Best: -8.0 	[1,0,0,1,2,1,2,2,0,1,2,1,1,1,1,0,0,2,2,1,1,0,0,1,2,1,1,1,0,1,0,2,2,0,1,0,1,0,2,0,2,0,1,0,0,2]
+End of execution of EG Instance: 5 Seed: 0 Fitness: -8.0
+Normalized fitness: 0.34782608695652173
+Starting HH framework with instance: 8 and seed: 0, selectioFunction = RC * Ccurrent * Cava - Cr and acceptanceFunction = ( ( ( ( Delta / Delta ) - PF - TI ) + TI / CI + PF ) - CI - TI ) + TI
+Best: -22.0 	[0,1,0,0,2,0,2,1,0,1,1,0,1,1,0,0,1,2,2,1,1,2,0,0,1,2,1,0,0,1,2,2,1,1,1,1,1,0,1,0,1,1,1,2,2,0,0,1,1,1,1,0,0,1,1,2,2,0,2,1,2,2]
+End of execution of EG Instance: 8 Seed: 0 Fitness: -22.0
+Normalized fitness: 0.5238095238095238
+Overall fitness: 1.5383022774327122
+Total time of execution: 448078191
+Solution: -2.4334023464458245
+Variables selection: ( RC / Ccurrent - Ccurrent * ( Ccurrent + Cava ) / Cr / Cava ) / Cr / Cava / Ccurrent
+Variables acceptance: ( TI / TI - PF * ( PF + PF ) / Delta / PF ) / Delta / PF / TI
+End Time: Seg Set 19 17:28:05 BRT 2016 --- run in 124:27:58 ---

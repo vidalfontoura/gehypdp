@@ -1,4 +1,4 @@
 <hh> ::= <selection>
 <selection> ::= <selection-terminal> | <selection> <op> <selection> | (<selection> <op> <selection>)
-<selection-terminal> ::= "Cbest" | "Ccurrent" | "Caccept" | "Cava" | "Cr" | "RC"
+<selection-terminal> ::= "Cbest" | "Ccurrent" | "Caccept" | "Cava" | "Cr" | "RC" | "Random"
 <op> ::= "*" | "/" | "+" | "-"

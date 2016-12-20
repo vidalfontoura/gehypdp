@@ -45,21 +45,24 @@ public class HighLevelHeuristicsGrammarExperiment {
 		// System.exit(1);
 		// }
 		//
-		if (args.length == 1) {
+		int timelimit = 180000;
+		int maxEvaluations = 1000;
+		int populationSize = 10;
+		int memorySize = 12;
+
+		int numberOfInsideSeeds = 1;
+
+		int rcWindowSize = 10;
+		int[] instances = new int[] { 5, 7, 11 };
+		if (args.length == 3) {
 			long seed = Long.valueOf(args[0]);
 			JMetalRandom.getInstance().setSeed(seed);
+			timelimit = Integer.valueOf(args[1]);
+			maxEvaluations = Integer.valueOf(args[2]);
+			populationSize = Integer.valueOf(args[3]);
 		} else {
 			JMetalRandom.getInstance().setSeed(1l);
 		}
-
-		int maxEvaluations = 1000;
-		int populationSize = 10;
-
-		int numberOfInsideSeeds = 1;
-		int memorySize = 12;
-		int timelimit = 60000;
-		int rcWindowSize = 10;
-		int[] instances = new int[] { 2, 5, 8 };
 
 		HighLevelHeuristicGrammarProblem problem = new HighLevelHeuristicGrammarProblem(5, 20, "/selectiongrammar.bnf",
 				"/acceptancegrammar.bnf", numberOfInsideSeeds, memorySize, timelimit, rcWindowSize, instances);

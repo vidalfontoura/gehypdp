@@ -53,7 +53,7 @@ public class HighLevelHeuristicsGrammarExperiment {
 		int numberOfInsideSeeds = 1;
 
 		int rcWindowSize = 10;
-		int[] instances = new int[] { 5, 7, 11 };
+		int[] instances = new int[] { 5, 7, 11 };	
 		if (args.length == 3) {
 			long seed = Long.valueOf(args[0]);
 			JMetalRandom.getInstance().setSeed(seed);
